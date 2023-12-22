@@ -16,8 +16,13 @@ Les effectifs des prénoms ne remplissant pas les conditions 1 et 2 sont regroup
 
 ## Tech Stack
 
-**Langages:** Python
-**Bibliothèque:** Pandas, NumPy, Matplotlib, Seaborn
+**Langages:** 
+•	Python
+**Bibliothèque:** 
+•	Pandas
+•	NumPy
+•	Matplotlib
+•	Seaborn
 
 
 
